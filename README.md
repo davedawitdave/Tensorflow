@@ -1,1 +1,3 @@
 # Tensorflow
+
+## Understanding the bussiness  
